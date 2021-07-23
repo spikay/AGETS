@@ -1,4 +1,4 @@
-name: IGET
+name: AGET
 channels:
   - anaconda
   - open3d-admin
@@ -166,4 +166,4 @@ dependencies:
   - zipp=3.4.1=pyhd8ed1ab_0
   - zlib=1.2.11=h62dcd97_1010
   - zstd=1.5.0=h6255e5f_0
-prefix: C:\Users\kay_s\anaconda3\envs\IGET
+prefix: C:\Users\kay_s\anaconda3\envs\AGET
